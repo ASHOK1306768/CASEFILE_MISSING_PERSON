@@ -48,3 +48,6 @@ venv.bak/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Exclude legacy raw Geolife dataset
+data/raw/Geolife Trajectories 1.3/
